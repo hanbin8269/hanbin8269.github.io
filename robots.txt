@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hanbin8269.github.io/sitemap.xml
